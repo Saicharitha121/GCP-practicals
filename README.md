@@ -11,6 +11,8 @@
 
 2. Cloud - SQL
 
+
+----------------------------------------------------------------
 <img width="1903" height="918" alt="Screenshot 2025-12-22 130403" src="https://github.com/user-attachments/assets/84f7bc5c-9e66-4779-b072-f782fce9fcd4" />
 
 
@@ -33,6 +35,9 @@
 3.** Pubsub messaging to the cloud function
 
 
+------------------------------------------------------
+
+
    <img width="1920" height="1080" alt="Screenshot 2025-12-23 113541" src="https://github.com/user-attachments/assets/f66468c7-7596-4c5a-840a-d520aab92a5b" />
 
 
@@ -44,6 +49,8 @@
 
 4.** Pubsub to Biquery data loading
 
+-----------------------------------------------------------------------
+
 
 <img width="1914" height="820" alt="Screenshot 2025-12-23 161938" src="https://github.com/user-attachments/assets/d0cbf03e-21ce-450d-a471-3437c8d12d27" />
 
@@ -53,6 +60,8 @@
 
 
   5. ** Publisher and subscriber messaging using topic
+
+  ---------------------------------------------------------------------------
 
 
      <img width="1871" height="861" alt="Screenshot 2025-12-26 124730" src="https://github.com/user-attachments/assets/8a6b10fd-364d-436d-bd83-b7b3a5cf1b8d" />
